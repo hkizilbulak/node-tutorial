@@ -1,0 +1,1 @@
+This is async with fs promises result : first file second file
